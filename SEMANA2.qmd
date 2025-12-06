@@ -1,0 +1,23 @@
+---
+title: "semana 2"
+format: html
+editor: visual
+---
+
+# 2. Crear un Proyecto en RStudio
+
+A continuación, se describen los pasos para crear un nuevo proyecto en RStudio:
+
+## 1. En la parte superior derecha seleccionar **New Project **![](images/clipboard-3639281685.png)** **
+
+## 2. Seleccionar **New Directory  **![](images/clipboard-200110135.png)
+
+## 3. Seleccionar la opción **New Project**
+
+![4. colocamos un nombre para nuestro proyecto y ubicamos el proyecto](images/clipboard-1089261444.png)
+
+![](images/clipboard-1419073388.png)
+
+6.  **Finalmente, visualizar el proyecto creado**
+
+![](images/clipboard-2010076564.png)
