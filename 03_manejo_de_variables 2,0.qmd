@@ -1,6 +1,6 @@
 ---
 title: "Manejo de variables"
-author: "Kevin J. Paez"
+author: "MARIA.REJAS"
 format: html
 editor: visual
 ---
@@ -347,3 +347,4 @@ data_artritis_9 = data_artritis_8 |>
 ```{r}
 table(data_artritis_9$tiempo_desde_dx_c)
 ```
+
