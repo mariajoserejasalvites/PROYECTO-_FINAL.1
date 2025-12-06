@@ -1,0 +1,31 @@
+---
+title: "Semana 4 - Descargar un archivo CSV desde GitHub"
+author: "MARIA JOSE REJAS"
+format: html
+editor: visual
+---
+
+# Semana 4
+
+## Cómo descargar un archivo CSV desde un repositorio de GitHub
+
+En esta sesión aprenderemos a descargar un archivo **CSV** que se encuentra dentro de un repositorio de GitHub.\
+Este proceso es fundamental para trabajar con datasets compartidos en proyectos colaborativos.\
+
+## 1. Ubicarse en la guía correspondiente
+
+\
+![](images/clipboard-132521729.png)\
+\
+
+## 2. Ingresar al repositorio de GitHub
+
+![](images/clipboard-536962249.png)
+
+## 3. Entrar a la carpeta **DATA** y ubicar el archivo CSV
+
+![](images/clipboard-4072226209.png)
+
+## 4. Descargar el archivo CSV
+
+![](images/clipboard-4117209573.png)
