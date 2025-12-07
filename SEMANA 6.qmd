@@ -1,0 +1,13 @@
+---
+title: "SEMANA 6"
+format: html
+editor: visual
+---
+
+#importar data nueva \
+data\<- read_csv("C:/Users/sofi0/Downloads/s09_circunf_glucosa.csv")\
+\
+
+#limpiar data
+
+data_limpia \<- data\[data$CDAI != "" & !is.na(data$CDAI), \]
