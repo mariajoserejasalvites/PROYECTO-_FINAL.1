@@ -1,0 +1,30 @@
+---
+title: "SEMANA 14"
+format: html
+editor: visual
+---
+
+## ANÁLISIS DE REGRESIÓN, ANÁLISIS UNIVARIADO, MULTIVARIADO
+Al realizar el Análisis de regresión lo primero que debemos de hacer es importar el archivo
+con el cual vamos a trabajar de ahí copiar el código hasta la parte ejecutable, en la
+primera consola.  ![](images/clipboard-1977950439.png)
+ hacemos CTRL+ENTER para poder ejecutar y al lado derecho de la segunda consola nos
+dará la data con el cual vamos a trabajar
+ ![](images/clipboard-2177763731.png)
+
+para realizar el “análisis de regresion” se utilizan los siguientes códigos\
+\
+![](images/clipboard-2596238929.png)\
+colocamos todos los códigos le hacemos CTRL+ENTER para poder ejecutarlo y nos dará el
+resultado en la parte derecha de la consola\
+\
+![](images/clipboard-908855939.png)\
+![](images/clipboard-592927275.png)\
+\
+realizaremos el “ANÁLISIS UNIVARIADO”, para ello utilizaremos los siguientes códigos,
+después de colocar los códigos ejecutaremos cada uno de ello, de esa manera
+obtendremos los resultados\
+
+![\
+LADO DERECHO DE LA CONSOLA\
+![](images/clipboard-203982050.png)](images/clipboard-3172298361.png)
