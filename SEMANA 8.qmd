@@ -1,0 +1,34 @@
+---
+title: "SEMANA 8"
+format: html
+editor: visual
+---
+
+## CARPETA SEMANA 8
+Como instalar un paquete en Rstudio – Realizar grafico estadístico (Histograma)
+INSTALAMOS EL PAQUETE “ggplot 2”y activamos
+
+![](images/clipboard-1278073670.png)
+
+Después de hacer todos esos pasos nos dirigimos en la parte ultima de la consola donde
+dice packages y buscamos ggplot2 para poder instalar el paquete:\
+\
+![](images/clipboard-4114949668.png)\
+\
+el paquete ya estará instalado para ser utilizado:\
+\
+![](images/clipboard-337787784.png)
+![](images/clipboard-4143248347.png)\
+Para elaborar este histograma utilizaremos el archivo “s09_circunf_glucosa.csv”\
+\
+![](images/clipboard-626419340.png)\
+LUEGO DE ESO TRABAJAMOS CON LA DATA\
+\
+![](images/clipboard-3888267673.png)\
+\
+Para la elaboración del histograma trabajaremos con el peso corporal\
+![](images/clipboard-1079733315.png)\
+\
+CTRL+ENTER “hist(data\$peso_corp_kg)”
+Una vez echo esos pasos el histograma estará elaborado para poder así ya visualizarlo\
+![](images/clipboard-2238428353.png)
