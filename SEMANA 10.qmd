@@ -1,0 +1,12 @@
+---
+title: "SEMANA 10"
+format: html
+editor: visual
+---
+
+## CARPETA SEMANA 10
+Calcular las Medidas de Tendencia Central (media aritmética, mediana, moda)
+TRABAJAREMOS CON MEDIA,MEDIANA,Y MODA  ![](images/clipboard-127811537.png)
+
+![\
+![](images/clipboard-1808989260.png)](images/clipboard-3739827570.png)
