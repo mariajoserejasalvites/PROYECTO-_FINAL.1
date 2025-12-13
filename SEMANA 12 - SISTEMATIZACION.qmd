@@ -1,0 +1,47 @@
+---
+title: "SEMANA 12"
+author: "RAMIREZ LAPA RICARDO"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+#SEMANA 12
+
+library(readr)
+tiroides <- read_csv("tiroides.csv")
+View(tiroides)
+```
+
+You can add options to executable code like this
+
+```{r}
+# Medidas de dispersión
+varianza <- sapply(tiroides_num, var, na.rm = TRUE)
+desviacion_estandar <- sapply(tiroides_num, sd, na.rm = TRUE)
+rango <- sapply(tiroides_num, function(x) diff(range(x, na.rm = TRUE)))
+rango_intercuartilico <- sapply(tiroides_num, IQR, na.rm = TRUE)
+```
+
+```{r}
+# Medidas de posición (Cuartiles)
+cuartiles <- sapply(tiroides_num, quantile, probs = c(0.25, 0.50, 0.75), na.rm = TRUE)
+```
+
+```{r}
+# Visualizar las 6 primeras filas
+head(tiroides)
+```
+
+```{r}
+# Resumen general del dataset
+summary(tiroides)
+```
